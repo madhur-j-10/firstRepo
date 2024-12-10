@@ -1,4 +1,4 @@
 # firstRepo
 first repo for demo
 <br>
-author - Madhur Jain
+author - Madhur Jain(super man)
